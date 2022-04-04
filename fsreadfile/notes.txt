@@ -1,0 +1,7 @@
+- File system module allows you to work with own computer's file system.
+- Usage includes:
+    - Read files
+    - Create files
+    - Update files
+    - Delete files
+    - Rename files
